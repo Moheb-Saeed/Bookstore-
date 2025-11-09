@@ -39,6 +39,3 @@ ng serve -o
 - HTML, CSS, TypeScript, Angular, Tailwind CSS, fontAwesome, flowbit
 ### 🧩 Backend
 - Node.js, Express.js, MongoDB, mogoose
-
-- 👨‍💻 Moheb Saeed
-- 👨‍💻 Omar Sherif Salah
