@@ -1,0 +1,50 @@
+<section class="w-full bg-black text-white pt-20">
+
+
+  <div class="relative w-full overflow-hidden h-[464px]">
+    <div class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat brightness-125"
+      [style.backgroundImage]="'url(/images/Rectangle-53.png)'">
+    </div>
+    <div class="absolute inset-0 bg-black/40"></div>
+  </div>
+
+  <div class="w-full px-6 md:px-8 lg:px-12 mt-10">
+
+
+    <div class="bg-black/95 px-6 py-10 rounded-t-2xl shadow-xl">
+      <h2 class="text-[#CC9600] text-2xl md:text-3xl font-semibold mb-4 text-left">About Us</h2>
+      <p class="text-base md:text-lg text-gray-200 leading-relaxed w-full">
+        Welcome to Neth BookPoint, your trusted source for a diverse range of books catering to every reader's
+        taste. Established with the mission to foster a love for reading in our community, we pride ourselves on
+        providing excellent service and a wide selection of books. Our journey began in 2011, and since then,
+        we have grown to become a beloved destination for book lovers. Below, you'll find information about our
+        four branches, their locations, and contact numbers.
+      </p>
+    </div>
+
+    <div class="mt-8 bg-black/95 px-6 py-8 rounded-b-2xl shadow-xl">
+      <h3 class="text-[#CC9600] text-xl md:text-2xl font-semibold mb-6 text-left">Our Branches</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div *ngFor="let b of branches" class="border border-black/40 p-4 rounded-md bg-black/80">
+          <h4 class="text-[#CC9600] font-semibold text-xl mb-3">{{ b.city }}</h4>
+          <p class="text-base text-white mb-2">{{ b.address }}</p>
+          <p class="text-base text-white mb-2">{{ b.contact }}</p>
+          <p class="text-sm text-gray-300 mb-2">{{ b.hours }}</p>
+          <p class="text-sm text-gray-300">{{ b.extras }}</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-8 bg-black/95 px-6 py-8 rounded-lg shadow-xl">
+      <h3 class="text-[#CC9600] text-xl md:text-2xl font-semibold mb-4 text-left">Our Commitment</h3>
+      <p class="text-base md:text-lg text-gray-200 leading-relaxed w-full">
+        At Neth BookPoint, we are committed to providing a welcoming and inspiring environment for all book
+        enthusiasts. Each of our branches is staffed with knowledgeable and friendly team members ready to assist
+        you in finding the perfect book. Whether you're looking for the latest bestseller, a rare find, or a cozy
+        place to read, Neth BookPoint is your destination. We believe in the power of reading to transform lives and
+        build community. Join us at one of our branches or explore our offerings online — we're here to support
+        your reading journey and make your book-shopping experience enjoyable and fulfilling.
+      </p>
+    </div>
+  </div>
+</section>

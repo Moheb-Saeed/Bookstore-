@@ -1,0 +1,115 @@
+<div class="w-full max-w-6xl mx-auto">
+  <div class="bg-white rounded-lg shadow-md p-6 mb-4">
+    <!-- Filter Header -->
+    <div class="flex justify-between items-center mb-4">
+      <h3 class="text-lg font-semibold text-gray-800">Filter Books</h3>
+      <button
+        (click)="clearFilters()"
+        class="px-4 py-2 text-sm bg-gray-200 hover:bg-gray-300 text-gray-700 rounded-md transition duration-200">
+        Clear Filters
+      </button>
+    </div>
+
+    <!-- Filters Grid -->
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+      <!-- Search Input -->
+      <div class="md:col-span-2">
+        <label for="search" class="block text-sm font-medium text-gray-700 mb-2">
+          Search
+        </label>
+        <div class="relative">
+          <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
+            <svg
+              class="w-4 h-4 text-gray-500"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 20 20">
+              <path
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z" />
+            </svg>
+          </div>
+          <input
+            type="search"
+            id="search"
+            class="block w-full pl-10 pr-3 py-2 border border-gray-300 rounded-lg
+                   bg-gray-50 focus:ring-blue-500 focus:border-blue-500"
+            placeholder="Search by title or author..."
+            [(ngModel)]="searchQuery"
+            name="searchQuery"
+            (input)="onFilterChange()" />
+        </div>
+      </div>
+
+      <!-- Category Select -->
+      <div>
+        <label for="category" class="block text-sm font-medium text-gray-700 mb-2">
+          Category
+        </label>
+        <select
+          id="category"
+          class="block w-full px-3 py-2 border border-gray-300 rounded-lg
+                 bg-gray-50 focus:ring-blue-500 focus:border-blue-500"
+          [(ngModel)]="selectedCategory"
+          name="category"
+          (change)="onFilterChange()">
+          <option value="">All Categories</option>
+          <option *ngFor="let category of categories" [value]="category">
+            {{ category }}
+          </option>
+        </select>
+      </div>
+
+      <!-- Price Range -->
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-2">
+          Price Range
+        </label>
+        <div class="flex gap-2">
+          <input
+            type="number"
+            placeholder="Min"
+            class="w-1/2 px-3 py-2 border border-gray-300 rounded-lg
+                   bg-gray-50 focus:ring-blue-500 focus:border-blue-500"
+            [(ngModel)]="minPrice"
+            name="minPrice"
+            (input)="onFilterChange()"
+            min="0" />
+          <input
+            type="number"
+            placeholder="Max"
+            class="w-1/2 px-3 py-2 border border-gray-300 rounded-lg
+                   bg-gray-50 focus:ring-blue-500 focus:border-blue-500"
+            [(ngModel)]="maxPrice"
+            name="maxPrice"
+            (input)="onFilterChange()"
+            min="0" />
+        </div>
+      </div>
+    </div>
+
+    <!-- Active Filters Display -->
+    <div class="mt-4 flex flex-wrap gap-2" *ngIf="searchQuery || selectedCategory || minPrice || maxPrice">
+      <span class="text-sm text-gray-600">Active filters:</span>
+
+      <span *ngIf="searchQuery"
+        class="inline-flex items-center px-3 py-1 rounded-full text-sm bg-blue-100 text-blue-800">
+        Search: "{{ searchQuery }}"
+      </span>
+
+      <span *ngIf="selectedCategory"
+        class="inline-flex items-center px-3 py-1 rounded-full text-sm bg-green-100 text-green-800">
+        Category: {{ selectedCategory }}
+      </span>
+
+      <span *ngIf="minPrice || maxPrice"
+        class="inline-flex items-center px-3 py-1 rounded-full text-sm bg-purple-100 text-purple-800">
+        Price: ${{ minPrice || 0 }} - ${{ maxPrice || '∞' }}
+      </span>
+    </div>
+  </div>
+</div>

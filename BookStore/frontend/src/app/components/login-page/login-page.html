@@ -1,0 +1,69 @@
+<div class="h-dvh bg-black text-white flex text-center select-none">
+    <div class="lg:block hidden w-5/12">
+        <img src="/images/loginRegister.png" alt="boy read books" class="h-full w-full" />
+    </div>
+    <div class="flex flex-col items-center justify-center space-y-5 ">
+        <div class=" w-10/12">
+            <h2 class="text-4xl py-4 primary-color bona-nova-bold">Welcome to Neth BookPoint!</h2>
+            <p>
+                Discover a seamless way to sell your books and unlock exclusive benefits. Enjoy a hassle-free
+                experience, save valuable time, and take advantage of our amazing offers.
+            </p>
+        </div>
+        <form action="" class="space-y-6 w-6/12" [formGroup]="myLogForm">
+            <h4 class="text-3xl primary-color bona-nova-bold">Login</h4>
+            <div class="space-y-2">
+                <div class="flex relative items-center">
+                    <input type="email" placeholder="Enter Email*"
+                        class="w-full border-0 ring-0 rounded text-[18px] text-[#434244] bg-[#D6CE80] p-4"
+                        formControlName="email" #email>
+                    <span class="absolute right-2 text-2xl text-gray-500 font-bold">@</span>
+                    @if(!emailValid.value){
+                    <p></p>
+                    }
+                    @else if (emailValid.valid) {
+                    <p class="absolute -right-10 text-emerald-500">valid</p>
+                    } @else {
+                    <p class="absolute -right-14 error-color">invalid</p>
+                    }
+                </div>
+                <div class="flex relative items-center">
+                    <input type={{type}} placeholder="Enter Password*"
+                        class="w-full border-0 ring-0 rounded text-[18px] text-[#434244] bg-[#D6CE80] p-4"
+                        formControlName="password" #password>
+                    <button (click)="showHidePassword()" class="p-1 absolute right-0 h-full cursor-pointer"><img
+                            src="icons/eye.png" alt=""></button>
+                </div>
+                @if(!passwordValid.value){
+                <div></div>
+                }
+                @else if(passwordValid.valid){
+                <div class="flex flex-col text-left pl-4 text-emerald-500">
+                    <span>start with capital letter*</span>
+                    <span>should contain numbers, <span>small letters, </span> <span>special letters</span></span>
+                </div>
+                } @else {
+                <div class="flex flex-col text-left pl-4 error-color">
+                    <span>start with capital letter*</span>
+                    <span>should contain numbers, <span>small letters, </span> <span>special letters</span></span>
+                </div>
+                }
+            </div>
+            <p class="text-left">
+                Don't you have an account?
+                <a routerLink="/register" class="ml-5 text-[#F29C0D] bona-nova-bold underline">Register</a>
+            </p>
+            <hr class="text-gray-400 mx-12">
+            <div class="flex justify-around text-[20px]">
+                <div id="google-signin-button"></div>
+                @if(myLogForm.valid){
+                <button class="bg-primary-color px-5 rounded font-bold cursor-pointer"
+                    (click)="loginUser( password, email)">Login</button>
+                } @else {
+                <button type="button" class="bg-gray-500 text-gray-400 cursor-not-allowed px-5 rounded font-bold"
+                    disabled (click)="loginUser(password, email)">Login</button>
+                }
+            </div>
+        </form>
+    </div>
+</div>

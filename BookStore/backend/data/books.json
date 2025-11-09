@@ -1,0 +1,1902 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL47044678M-L.jpg",
+    "description": "A timeless romantic novel about Elizabeth Bennet and Mr. Darcy exploring manners, morality, and love in 19th century England.",
+    "genre": "Classic",
+    "price": 11.99,
+    "publishedYear": 1813,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL6969829M-L.jpg",
+    "description": "A powerful story of an orphaned girl who becomes a governess and falls in love with her mysterious employer, Mr. Rochester.",
+    "genre": "Classic",
+    "price": 10.5,
+    "publishedYear": 1847,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL38586477M-L.jpg",
+    "description": "A haunting tale of passion, revenge, and the destructive power of love between Heathcliff and Catherine Earnshaw.",
+    "genre": "Classic",
+    "price": 12.75,
+    "publishedYear": 1847,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL45791004M-L.jpg",
+    "description": "The coming-of-age story of Pip, an orphan who dreams of becoming a gentleman and learns the true value of loyalty and love.",
+    "genre": "Classic",
+    "price": 13.49,
+    "publishedYear": 1861,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL22570129M-L.jpg",
+    "description": "A tragic story of love, wealth, and illusion set in the Jazz Age, centered on the mysterious millionaire Jay Gatsby.",
+    "genre": "Classic",
+    "price": 9.99,
+    "publishedYear": 1925,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27300715M-L.jpg",
+    "description": "The story of the March sisters—Meg, Jo, Beth, and Amy—growing up during the American Civil War.",
+    "genre": "Classic",
+    "price": 12.99,
+    "publishedYear": 1868,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL31857229M-L.jpg",
+    "description": "The epic tale of Captain Ahab’s obsessive quest for revenge against the white whale, Moby Dick.",
+    "genre": "Classic",
+    "price": 15.49,
+    "publishedYear": 1851,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL55900058M-L.jpg",
+    "description": "A psychological exploration of guilt and redemption as Raskolnikov grapples with the moral consequences of murder.",
+    "genre": "Classic",
+    "price": 14.99,
+    "publishedYear": 1866,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "bookCoverImage": "http://books.google.com/books/content?id=icSwNbJng4wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A story about a man who remains eternally young while his portrait ages, exploring vanity and moral corruption.",
+    "genre": "Classic",
+    "price": 10.99,
+    "publishedYear": 1890,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "bookCoverImage": "http://books.google.com/books/content?id=l41DBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A tragic story of love and betrayal set in Imperial Russia, following the doomed affair of Anna Karenina and Count Vronsky.",
+    "genre": "Classic",
+    "price": 16.25,
+    "publishedYear": 1877,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL6089177M-L.jpg",
+    "description": "A novel about teenage alienation and loss of innocence as Holden Caulfield wanders through New York City.",
+    "genre": "Fiction",
+    "price": 11.49,
+    "publishedYear": 1951,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL7893352M-L.jpg",
+    "description": "A tale of endurance and struggle between an aging fisherman and a giant marlin in the Gulf Stream.",
+    "genre": "Fiction",
+    "price": 9.5,
+    "publishedYear": 1952,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL6504102M-L.jpg",
+    "description": "A dystopian novel about a technologically advanced society where happiness is mandatory and individuality is suppressed.",
+    "genre": "Fiction",
+    "price": 13,
+    "publishedYear": 1932,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25651771M-L.jpg",
+    "description": "A dark psychological thriller about a husband suspected of murdering his missing wife, filled with twists and deceit.",
+    "genre": "Thriller",
+    "price": 14.99,
+    "publishedYear": 2012,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25682908M-L.jpg",
+    "description": "A gripping psychological thriller that follows an alcoholic woman who becomes entangled in a missing person investigation.",
+    "genre": "Thriller",
+    "price": 13.99,
+    "publishedYear": 2015,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25928337M-L.jpg",
+    "description": "A fast-paced mystery that combines art, religion, and conspiracy as Robert Langdon races to uncover a hidden truth.",
+    "genre": "Mystery",
+    "price": 15.49,
+    "publishedYear": 2003,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL24777120M-L.jpg",
+    "description": "The prequel to The Da Vinci Code, where symbologist Robert Langdon uncovers a secret society and a deadly plot against the Vatican.",
+    "genre": "Mystery",
+    "price": 14.25,
+    "publishedYear": 2000,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL36653045M-L.jpg",
+    "description": "An agoraphobic woman believes she witnessed a crime in her neighbor’s house, but no one believes her story.",
+    "genre": "Thriller",
+    "price": 12.75,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "bookCoverImage": "http://books.google.com/books/content?id=WrL9de30FDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A gripping mystery that brings together a disgraced journalist and a brilliant hacker to uncover dark family secrets.",
+    "genre": "Mystery",
+    "price": 13.5,
+    "publishedYear": 2005,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL22312685M-L.jpg",
+    "description": "A chilling story about a family trapped in an isolated hotel haunted by supernatural forces and a descent into madness.",
+    "genre": "Horror",
+    "price": 16.49,
+    "publishedYear": 1977,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Misery",
+    "author": "Stephen King",
+    "bookCoverImage": "http://books.google.com/books/content?id=t-ArDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A novelist is held captive by his psychotic fan after a car accident, in a terrifying story of obsession and control.",
+    "genre": "Thriller",
+    "price": 14,
+    "publishedYear": 1987,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Girl Who Played with Fire",
+    "author": "Stieg Larsson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL31959990M-L.jpg",
+    "description": "The second book in the Millennium series, delving deeper into Lisbeth Salander’s dark past.",
+    "genre": "Mystery",
+    "price": 13.75,
+    "publishedYear": 2006,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL36647151M-L.jpg",
+    "description": "A proven framework for building good habits and breaking bad ones, focusing on small, consistent improvements.",
+    "genre": "Self-Help",
+    "price": 16.99,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26314691M-L.jpg",
+    "description": "Rules for focused success in a distracted world, teaching how to achieve meaningful work without distraction.",
+    "genre": "Productivity",
+    "price": 14.5,
+    "publishedYear": 2016,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL28136651M-L.jpg",
+    "description": "A timeless guide to personal and professional effectiveness, built on principles of integrity and fairness.",
+    "genre": "Self-Help",
+    "price": 13.25,
+    "publishedYear": 1989,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL8154493M-L.jpg",
+    "description": "A spiritual classic teaching how to live fully in the present moment and free yourself from mental suffering.",
+    "genre": "Spirituality",
+    "price": 12.75,
+    "publishedYear": 1997,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Think Fast and Slow",
+    "author": "Daniel Kahneman",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL38090969M-L.jpg",
+    "description": "A groundbreaking exploration of how our brains work — the fast intuitive system and the slow rational one.",
+    "genre": "Psychology",
+    "price": 15.49,
+    "publishedYear": 2011,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26618658M-L.jpg",
+    "description": "The autobiography of a Navy SEAL turned ultra-athlete who mastered his mind to overcome impossible odds.",
+    "genre": "Motivational",
+    "price": 17.99,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "bookCoverImage": "http://books.google.com/books/content?id=H8k4JLZu6AsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A powerful memoir and psychological exploration of finding purpose even in the darkest times.",
+    "genre": "Psychology",
+    "price": 10.99,
+    "publishedYear": 1946,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "bookCoverImage": "http://books.google.com/books/content?id=AbKWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A counterintuitive approach to living a good life — focusing on what truly matters and letting go of the rest.",
+    "genre": "Self-Help",
+    "price": 13.99,
+    "publishedYear": 2016,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Mindset: The New Psychology of Success",
+    "author": "Carol S. Dweck",
+    "bookCoverImage": "http://books.google.com/books/content?id=R0-eBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Explains the power of mindset — how believing in growth can transform success in every area of life.",
+    "genre": "Psychology",
+    "price": 12.5,
+    "publishedYear": 2006,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "الرجوع إلى الذات",
+    "author": "مالك بن نبي",
+    "bookCoverImage": "http://books.google.com/books/content?id=DmeUQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A deep reflection on the state of Muslim society and the importance of self-awareness and intellectual revival.",
+    "genre": "Philosophy",
+    "price": 8.99,
+    "publishedYear": 1952,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26632040M-L.jpg",
+    "description": "A financial classic contrasting two mindsets about money — one focused on employment, the other on investment.",
+    "genre": "Finance",
+    "price": 14.99,
+    "publishedYear": 1997,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL24982481M-L.jpg",
+    "description": "A guide to building successful startups through continuous innovation and validated learning.",
+    "genre": "Entrepreneurship",
+    "price": 16.5,
+    "publishedYear": 2011,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27546580M-L.jpg",
+    "description": "Explores how to create truly innovative startups that move from zero to one, instead of copying others.",
+    "genre": "Business",
+    "price": 15.25,
+    "publishedYear": 2014,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27279072M-L.jpg",
+    "description": "A leadership book about finding your purpose and inspiring others by starting with 'why'.",
+    "genre": "Leadership",
+    "price": 13.5,
+    "publishedYear": 2009,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL7281896M-L.jpg",
+    "description": "The bible of value investing, teaching long-term strategies for building wealth through stock investing.",
+    "genre": "Finance",
+    "price": 18.75,
+    "publishedYear": 1949,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL29412746M-L.jpg",
+    "description": "Timeless lessons on wealth, greed, and happiness — how emotions drive financial decisions.",
+    "genre": "Finance",
+    "price": 17.25,
+    "publishedYear": 2020,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9248220M-L.jpg",
+    "description": "Analyzes what differentiates great companies from merely good ones through long-term performance.",
+    "genre": "Business",
+    "price": 14.95,
+    "publishedYear": 2001,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Elon Musk",
+    "author": "Walter Isaacson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL48244766M-L.jpg",
+    "description": "The biography of Elon Musk — the visionary behind Tesla, SpaceX, and more — exploring his ambitions and mindset.",
+    "genre": "Biography",
+    "price": 22.99,
+    "publishedYear": 2023,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26449491M-L.jpg",
+    "description": "Explores the factors that contribute to high levels of success — timing, opportunity, and culture.",
+    "genre": "Business Psychology",
+    "price": 14.25,
+    "publishedYear": 2008,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "فن اللامبالاة",
+    "author": "مارك مانسون",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL45076209M-L.jpg",
+    "description": "النسخة العربية من كتاب Mark Manson الشهير، تدور حول تقبّل الصعوبات والتركيز على الأمور الجوهرية في الحياة.",
+    "genre": "Self-Help",
+    "price": 9.99,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL19989976M-L.jpg",
+    "description": "Stephen Hawking explores the origins and structure of the universe, from the Big Bang to black holes.",
+    "genre": "Science",
+    "price": 13.99,
+    "publishedYear": 1988,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "bookCoverImage": "http://books.google.com/books/content?id=MosvEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Traces the history of humanity from prehistoric times to the modern era, exploring how humans became dominant.",
+    "genre": "History",
+    "price": 18.5,
+    "publishedYear": 2014,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL7405450M-L.jpg",
+    "description": "A revolutionary look at evolution, emphasizing genes as the driving force behind natural selection.",
+    "genre": "Biology",
+    "price": 15.99,
+    "publishedYear": 1976,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "AI 2041: Ten Visions for Our Future",
+    "author": "Kai-Fu Lee",
+    "bookCoverImage": "http://books.google.com/books/content?id=cw0PEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A visionary exploration of how artificial intelligence will reshape the world by the year 2041.",
+    "genre": "Technology",
+    "price": 19.99,
+    "publishedYear": 2021,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Innovators",
+    "author": "Walter Isaacson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25643817M-L.jpg",
+    "description": "The story of the digital revolution and the people who made it possible, from Ada Lovelace to Steve Jobs.",
+    "genre": "History",
+    "price": 17.5,
+    "publishedYear": 2014,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26311319M-L.jpg",
+    "description": "A short, engaging explanation of the universe for those who don’t have time for full physics courses.",
+    "genre": "Astrophysics",
+    "price": 11.5,
+    "publishedYear": 2017,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Code Breaker",
+    "author": "Walter Isaacson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL32008333M-L.jpg",
+    "description": "The story of Jennifer Doudna and the invention of CRISPR — a breakthrough in gene editing technology.",
+    "genre": "Biotechnology",
+    "price": 20.99,
+    "publishedYear": 2021,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Homo Deus: A Brief History of Tomorrow",
+    "author": "Yuval Noah Harari",
+    "bookCoverImage": "http://books.google.com/books/content?id=XgksEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Examines the future of humanity as we develop artificial intelligence and bioengineering technologies.",
+    "genre": "Future Studies",
+    "price": 18.99,
+    "publishedYear": 2016,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Thinking in Systems",
+    "author": "Donella H. Meadows",
+    "bookCoverImage": "http://books.google.com/books/content?id=JSgOSP1qklUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "An introduction to systems thinking — how complex systems work and how we can make them better.",
+    "genre": "Science ",
+    "price": 14.25,
+    "publishedYear": 2008,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "العلم و الإيمان",
+    "author": "مصطفى محمود",
+    "bookCoverImage": "http://books.google.com/books/content?id=o0caEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A philosophical reflection connecting modern science with faith, exploring the harmony between mind and spirit.",
+    "genre": "Philosophy",
+    "price": 9.99,
+    "publishedYear": 1970,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Palace Walk",
+    "author": "Naguib Mahfouz",
+    "bookCoverImage": "http://books.google.com/books/content?id=BZkPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "The first book of Mahfouz’s Cairo Trilogy, portraying Egyptian family life during British rule.",
+    "genre": "Literature",
+    "price": 11.99,
+    "publishedYear": 1956,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Yacoubian Building",
+    "author": "Alaa Al Aswany",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9191381M-L.jpg",
+    "description": "A controversial novel exploring modern Egyptian society through the lives of residents in a downtown Cairo building.",
+    "genre": "Fiction",
+    "price": 10.5,
+    "publishedYear": 2002,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Azazeel",
+    "author": "Youssef Ziedan",
+    "bookCoverImage": "http://books.google.com/books/content?id=QOmFDXyDPCYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Set in the 5th century, the novel explores faith and heresy through the journey of an Egyptian monk named Hypa.",
+    "genre": "Fiction",
+    "price": 12.25,
+    "publishedYear": 2008,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Utopia",
+    "author": "Ahmed Khaled Tawfik",
+    "bookCoverImage": "http://books.google.com/books/content?id=P8qkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A dystopian Egyptian novel set in 2023, depicting a society divided between the rich elite and the poor masses.",
+    "genre": "Fiction",
+    "price": 9.5,
+    "publishedYear": 2008,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Blue Elephant",
+    "author": "Ahmed Mourad",
+    "bookCoverImage": "http://books.google.com/books/content?id=5nCdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A gripping psychological thriller about a psychiatrist drawn into a mysterious murder case that changes his life.",
+    "genre": "Thriller",
+    "price": 10.99,
+    "publishedYear": 2012,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Season of Migration to the North",
+    "author": "Tayeb Salih",
+    "bookCoverImage": "http://books.google.com/books/content?id=zBBshCdGbVwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A Sudanese masterpiece exploring identity, colonialism, and cultural conflict between East and West.",
+    "genre": "Literature",
+    "price": 11.5,
+    "publishedYear": 1966,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Frankenstein in Baghdad",
+    "author": "Ahmed Saadawi",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26669932M-L.jpg",
+    "description": "An allegorical novel where a man in war-torn Baghdad assembles human remains to create a monster seeking justice.",
+    "genre": "Magical Realism",
+    "price": 12.75,
+    "publishedYear": 2013,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Map of Love",
+    "author": "Ahdaf Soueif",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL6784120M-L.jpg",
+    "description": "A sweeping romance connecting Egypt’s colonial past with modern times through letters and love stories.",
+    "genre": "Drama",
+    "price": 14.25,
+    "publishedYear": 1999,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Queue",
+    "author": "Basma Abdel Aziz",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26880796M-L.jpg",
+    "description": "A dystopian story symbolizing bureaucracy and oppression in a post-revolutionary Arab state.",
+    "genre": "Fiction",
+    "price": 9.99,
+    "publishedYear": 2013,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Automobile Club of Egypt",
+    "author": "Alaa Al Aswany",
+    "bookCoverImage": "http://books.google.com/books/content?id=vm8uCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "An exploration of Egypt’s royal era, showing power struggles and corruption inside Cairo’s elite clubs.",
+    "genre": "Fiction",
+    "price": 10.75,
+    "publishedYear": 2013,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Ihya Ulum al-Din",
+    "author": "Abu Hamid al-Ghazali",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL2987004M-L.jpg",
+    "description": "One of the most important works in Islamic spirituality, exploring the purification of the soul and the path to God.",
+    "genre": "Islamic",
+    "price": 25.99,
+    "publishedYear": 1095,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Madarij al-Salikin",
+    "author": "Ibn Qayyim al-Jawziyya",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL2836353M-L.jpg",
+    "description": "A spiritual masterpiece explaining the stages of a believer’s journey toward Allah, based on Ibn al-Qayyim’s profound insights.",
+    "genre": "Islamic",
+    "price": 22.5,
+    "publishedYear": 1340,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Al-Fawaid",
+    "author": "Ibn Qayyim al-Jawziyya",
+    "bookCoverImage": "http://books.google.com/books/content?id=WEjytwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A collection of deep reflections and wisdoms on faith, morality, and the human heart.",
+    "genre": "Islamic",
+    "price": 19.99,
+    "publishedYear": 1342,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Zad al-Ma'ad",
+    "author": "Ibn Qayyim al-Jawziyya",
+    "bookCoverImage": "http://books.google.com/books/content?id=G1BiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A unique biography of the Prophet Muhammad (peace be upon him) exploring his guidance in daily life.",
+    "genre": "Prophetic Biography",
+    "price": 29.99,
+    "publishedYear": 1344,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Revival of the Religious Sciences (Selections)",
+    "author": "Abu Hamid al-Ghazali",
+    "bookCoverImage": "http://books.google.com/books/content?id=09oeRfRDFo8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A modern English edition of selected chapters from Ghazali’s magnum opus.",
+    "genre": "Islamic",
+    "price": 24.99,
+    "publishedYear": 2005,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "In the Company of the Prophet",
+    "author": "Salman al-Oadah",
+    "bookCoverImage": "http://books.google.com/books/content?id=qP1qfUqo1xsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "An insightful exploration of the Prophet’s life and character, encouraging moral reflection.",
+    "genre": "Islamic",
+    "price": 21.75,
+    "publishedYear": 2010,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Soul's Journey After Death",
+    "author": "Ibn Qayyim al-Jawziyya",
+    "bookCoverImage": "http://books.google.com/books/content?id=26yPAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "An insightful work on the Islamic understanding of death and the afterlife.",
+    "genre": "Islamic",
+    "price": 20,
+    "publishedYear": 1345,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Riyadh al-Salihin",
+    "author": "Imam Nawawi",
+    "bookCoverImage": "http://books.google.com/books/content?id=JybYAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A famous collection of hadith covering all aspects of life, from worship to manners.",
+    "genre": "Islamic",
+    "price": 23.99,
+    "publishedYear": 1277,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Letters to a Young Muslim",
+    "author": "Omar Saif Ghobash",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26794178M-L.jpg",
+    "description": "A series of letters offering modern reflections on Islam, identity, and tolerance in the 21st century.",
+    "genre": "Islamic",
+    "price": 18.99,
+    "publishedYear": 2017,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Art of Remembering God",
+    "author": "Amr Khaled",
+    "bookCoverImage": "http://books.google.com/books/content?id=qpDWl2a_lzQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A motivational guide to reconnecting with faith and inner peace through daily remembrance of Allah.",
+    "genre": "Spirituality",
+    "price": 16.5,
+    "publishedYear": 2008,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Talk to Yourself",
+    "author": "Adham Sharkawy",
+    "bookCoverImage": "http://books.google.com/books/content?id=2GAdAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A deeply emotional reflection on life, love, and faith from one of the most popular Arab authors.",
+    "genre": "Spiritual Motivation",
+    "price": 14.99,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "A Talk Between Them",
+    "author": "Adham Sharkawy",
+    "bookCoverImage": "http://books.google.com/books/content?id=5cHZCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A collection of short reflections about life, morality, and faith, written in a simple yet profound style.",
+    "genre": "Islamic",
+    "price": 15.75,
+    "publishedYear": 2017,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Words That Touch the Heart",
+    "author": "Mostafa Hosny",
+    "bookCoverImage": "http://books.google.com/books/content?id=OQTHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "An inspiring Islamic book encouraging young Muslims to find purpose and spiritual balance in modern life.",
+    "genre": "Islamic",
+    "price": 17.99,
+    "publishedYear": 2019,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Tales of the Righteous",
+    "author": "Amr Khaled",
+    "bookCoverImage": "http://books.google.com/books/content?id=uQYXAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "Stories from the lives of righteous Muslims throughout history, presented in a motivational tone.",
+    "genre": "History",
+    "price": 18.5,
+    "publishedYear": 2010,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Words of Light",
+    "author": "Mustafa Sadiq Al-Rafi'i",
+    "bookCoverImage": "http://books.google.com/books/content?id=FaqBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A masterpiece of eloquent Arabic literature infused with deep Islamic thought and spiritual wisdom.",
+    "genre": "Literature",
+    "price": 20.25,
+    "publishedYear": 1929,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Qur'an and Modern Science",
+    "author": "Maurice Bucaille",
+    "bookCoverImage": "http://books.google.com/books/content?id=uld0Y-mLoVQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A comparative study showing harmony between Qur'anic revelation and modern scientific discoveries.",
+    "genre": "Islamic",
+    "price": 22,
+    "publishedYear": 1976,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "La Tahzan (Don’t Be Sad)",
+    "author": "Aaidh ibn Abdullah al-Qarni",
+    "bookCoverImage": "http://books.google.com/books/content?id=vY1FDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A globally bestselling book offering practical and spiritual advice for overcoming sadness and anxiety.",
+    "genre": "Islamic",
+    "price": 19.5,
+    "publishedYear": 2001,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Cairo Trilogy",
+    "author": "Naguib Mahfouz",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL3970138M-L.jpg",
+    "description": "A sweeping family saga set in Cairo between World War I and II, exploring generational change and tradition.",
+    "genre": "Fiction",
+    "price": 32.99,
+    "publishedYear": 1956,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Yacoubian Building",
+    "author": "Alaa Al Aswany",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9191381M-L.jpg",
+    "description": "A vivid portrait of modern Egyptian society told through the stories of residents in a decaying Cairo building.",
+    "genre": "Fiction",
+    "price": 19.99,
+    "publishedYear": 2002,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Season of Migration to the North",
+    "author": "Tayeb Salih",
+    "bookCoverImage": "http://books.google.com/books/content?id=zBBshCdGbVwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A powerful postcolonial novel exploring identity, colonialism, and the clash between Western and Arab cultures.",
+    "genre": "Classic",
+    "price": 17.5,
+    "publishedYear": 1966,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Zaat",
+    "author": "Sonallah Ibrahim",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9191373M-L.jpg",
+    "description": "A satirical novel chronicling the life of an Egyptian woman amid social and political upheaval.",
+    "genre": "Political Satire",
+    "price": 18.75,
+    "publishedYear": 1992,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Palace Walk",
+    "author": "Naguib Mahfouz",
+    "bookCoverImage": "http://books.google.com/books/content?id=BZkPAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "The first novel in Mahfouz’s Cairo Trilogy, portraying a patriarch’s control over his family and his inner struggles.",
+    "genre": "Fiction",
+    "price": 20.25,
+    "publishedYear": 1956,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Map of Love",
+    "author": "Ahdaf Soueif",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL6784120M-L.jpg",
+    "description": "A passionate story that spans a century, intertwining love, politics, and history in Egypt.",
+    "genre": "Drama",
+    "price": 22.5,
+    "publishedYear": 1999,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Blue Elephant",
+    "author": "Ahmed Mourad",
+    "bookCoverImage": "http://books.google.com/books/content?id=5nCdDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A psychological thriller following a psychiatrist uncovering dark secrets within his own mind.",
+    "genre": "Thriller",
+    "price": 21.99,
+    "publishedYear": 2012,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Vertigo",
+    "author": "Ahmed Mourad",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27673618M-L.jpg",
+    "description": "A gripping political thriller revealing corruption and power struggles in modern Egypt.",
+    "genre": "Thriller",
+    "price": 18,
+    "publishedYear": 2007,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Chicago",
+    "author": "Alaa Al Aswany",
+    "bookCoverImage": "http://books.google.com/books/content?id=8pdyxOYRj2QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A bold novel exploring the lives of Egyptian expatriates in the U.S., addressing identity and exile.",
+    "genre": "Fiction",
+    "price": 19.99,
+    "publishedYear": 2007,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Utopia",
+    "author": "Ahmed Khaled Tawfik",
+    "bookCoverImage": "http://books.google.com/books/content?id=P8qkAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A dystopian novel imagining Egypt’s future where social inequality leads to chaos and violence.",
+    "genre": "Fiction",
+    "price": 17,
+    "publishedYear": 2008,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Kalila wa Dimna",
+    "author": "Ibn al-Muqaffa'",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL35668680M-L.jpg",
+    "description": "A collection of ancient fables conveying moral and political lessons through talking animals.",
+    "genre": "Classic",
+    "price": 15.99,
+    "publishedYear": 750,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Nahj al-Balagha",
+    "author": "Ali ibn Abi Talib",
+    "bookCoverImage": "http://books.google.com/books/content?id=x1QrAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A compilation of sermons, letters, and sayings attributed to Imam Ali, rich with eloquence and wisdom.",
+    "genre": "Philosophy",
+    "price": 24.99,
+    "publishedYear": 970,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Muqaddimah",
+    "author": "Ibn Khaldun",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL5288624M-L.jpg",
+    "description": "A groundbreaking work of sociology and historiography analyzing civilization, politics, and human behavior.",
+    "genre": "History",
+    "price": 27.5,
+    "publishedYear": 1377,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Risalat al-Ghufran",
+    "author": "Abu al-Ala al-Ma'arri",
+    "bookCoverImage": "http://books.google.com/books/content?id=XRwVCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A philosophical allegory exploring themes of morality and the afterlife, often compared to Dante’s Divine Comedy.",
+    "genre": "Classic",
+    "price": 18.75,
+    "publishedYear": 1033,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Epistle of Forgiveness",
+    "author": "Abu al-Ala al-Ma'arri",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL45596553M-L.jpg",
+    "description": "A philosophical exploration of heaven and hell written with sharp wit and poetic depth.",
+    "genre": "Philosophy",
+    "price": 20,
+    "publishedYear": 1033,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Al-Aghani",
+    "author": "Abu al-Faraj al-Isfahani",
+    "bookCoverImage": "http://books.google.com/books/content?id=Lj5-Q6DJ6OsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A monumental 10th-century collection of Arabic songs, poems, and cultural stories.",
+    "genre": "Arabic Heritage",
+    "price": 30,
+    "publishedYear": 970,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Book of Misers",
+    "author": "Al-Jahiz",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL8622568M-L.jpg",
+    "description": "A humorous and insightful look at human greed, wit, and social satire in Abbasid-era Baghdad.",
+    "genre": "Satire",
+    "price": 17.25,
+    "publishedYear": 860,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Deliverance from Error",
+    "author": "Abu Hamid al-Ghazali",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL8708932M-L.jpg",
+    "description": "An autobiographical journey of Imam al-Ghazali’s search for truth and spiritual certainty.",
+    "genre": "Philosophy",
+    "price": 19.99,
+    "publishedYear": 1100,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Book of Healing",
+    "author": "Ibn Sina (Avicenna)",
+    "bookCoverImage": "http://books.google.com/books/content?id=lo49EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A comprehensive philosophical and scientific encyclopedia discussing logic, science, and metaphysics.",
+    "genre": "Philosophy",
+    "price": 28,
+    "publishedYear": 1027,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL47044678M-L.jpg",
+    "description": "A timeless romantic novel exploring manners, morality, and love in early 19th-century England.",
+    "genre": "Classic",
+    "price": 14.99,
+    "publishedYear": 1813,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL22819394M-L.jpg",
+    "description": "A dystopian masterpiece depicting a totalitarian world of surveillance, censorship, and control.",
+    "genre": "Fiction",
+    "price": 16.5,
+    "publishedYear": 1949,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL37027359M-L.jpg",
+    "description": "A powerful story about racial injustice and childhood innocence in the American South.",
+    "genre": "Classic",
+    "price": 18.99,
+    "publishedYear": 1960,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL22570129M-L.jpg",
+    "description": "A tragic story of wealth, love, and the American Dream in the Roaring Twenties.",
+    "genre": "Classic",
+    "price": 15,
+    "publishedYear": 1925,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL31857229M-L.jpg",
+    "description": "An epic tale of obsession and revenge between Captain Ahab and the great white whale.",
+    "genre": "Fiction",
+    "price": 17.25,
+    "publishedYear": 1851,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL6969829M-L.jpg",
+    "description": "A story of independence, morality, and love told through the life of the orphan Jane Eyre.",
+    "genre": "Drama",
+    "price": 14.75,
+    "publishedYear": 1847,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL6504102M-L.jpg",
+    "description": "A visionary dystopian novel imagining a future society built on technology and conformity.",
+    "genre": "Fiction",
+    "price": 15.5,
+    "publishedYear": 1932,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL35649409M-L.jpg",
+    "description": "A gothic novel exploring creation, ambition, and the dangers of scientific pursuit.",
+    "genre": "Fiction",
+    "price": 13.99,
+    "publishedYear": 1818,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL38586477M-L.jpg",
+    "description": "A dark romantic tale of passion, revenge, and tragedy on the Yorkshire moors.",
+    "genre": "Drama",
+    "price": 14.99,
+    "publishedYear": 1847,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "bookCoverImage": "http://books.google.com/books/content?id=icSwNbJng4wC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A philosophical novel about beauty, morality, and the corruption of the soul.",
+    "genre": "Fiction",
+    "price": 15.99,
+    "publishedYear": 1890,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL43271384M-L.jpg",
+    "description": "A heartbreaking story of friendship, betrayal, and redemption set in Afghanistan.",
+    "genre": "Fiction",
+    "price": 17.99,
+    "publishedYear": 2003,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL39208177M-L.jpg",
+    "description": "A spiritual adventure of a boy stranded at sea with a Bengal tiger.",
+    "genre": "Fiction",
+    "price": 14.95,
+    "publishedYear": 2001,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26338622M-L.jpg",
+    "description": "An emotional story of two Afghan women whose lives are intertwined by war and destiny.",
+    "genre": "Drama",
+    "price": 18.99,
+    "publishedYear": 2007,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL32936822M-L.jpg",
+    "description": "A philosophical novel about destiny, dreams, and self-discovery.",
+    "genre": "Fiction",
+    "price": 13.99,
+    "publishedYear": 1988,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9666775M-L.jpg",
+    "description": "A haunting tale of a father and son’s journey through a post-apocalyptic world.",
+    "genre": "Fiction",
+    "price": 14.25,
+    "publishedYear": 2006,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27330017M-L.jpg",
+    "description": "A story of two people bound by love and misunderstanding as they navigate adulthood.",
+    "genre": "Drama",
+    "price": 13.75,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "bookCoverImage": "http://books.google.com/books/content?id=-9F9WaXUhRYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A mesmerizing tale of magic, rivalry, and romance in a mysterious circus.",
+    "genre": "Fantasy",
+    "price": 17.5,
+    "publishedYear": 2011,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "bookCoverImage": "http://books.google.com/books/content?id=GKlCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A young boy discovers a forgotten book that changes his life forever.",
+    "genre": "Fiction",
+    "price": 16.99,
+    "publishedYear": 2001,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25651771M-L.jpg",
+    "description": "A gripping psychological thriller about marriage, deception, and media manipulation.",
+    "genre": "Thriller",
+    "price": 17.99,
+    "publishedYear": 2012,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25682908M-L.jpg",
+    "description": "A suspenseful story following an unreliable narrator who witnesses something shocking from her daily commute.",
+    "genre": "Thriller",
+    "price": 16.5,
+    "publishedYear": 2015,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25928337M-L.jpg",
+    "description": "A fast-paced thriller blending art, history, and religion in a global mystery chase.",
+    "genre": "Thriller",
+    "price": 18.25,
+    "publishedYear": 2003,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL24777120M-L.jpg",
+    "description": "The prequel to The Da Vinci Code, exploring the clash between science and religion.",
+    "genre": "Thriller",
+    "price": 17.75,
+    "publishedYear": 2000,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL28025498M-L.jpg",
+    "description": "A psychological thriller about a woman who stops speaking after committing a shocking act of violence.",
+    "genre": "Thriller",
+    "price": 15.99,
+    "publishedYear": 2019,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL36653045M-L.jpg",
+    "description": "A psychological thriller about an agoraphobic woman who believes she witnessed a crime.",
+    "genre": "Suspense",
+    "price": 16.99,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "bookCoverImage": "http://books.google.com/books/content?id=WrL9de30FDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A journalist and a hacker uncover dark secrets in this Swedish crime thriller.",
+    "genre": "Fiction",
+    "price": 18.5,
+    "publishedYear": 2005,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25687542M-L.jpg",
+    "description": "A story of three women whose seemingly perfect lives unravel with a murder mystery.",
+    "genre": "Thriller",
+    "price": 14.75,
+    "publishedYear": 2014,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Before I Go to Sleep",
+    "author": "S.J. Watson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27566298M-L.jpg",
+    "description": "A chilling thriller about a woman who wakes up every day without memory of her past.",
+    "genre": "Thriller",
+    "price": 13.99,
+    "publishedYear": 2011,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Shutter Island",
+    "author": "Dennis Lehane",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9233201M-L.jpg",
+    "description": "A detective investigates a mysterious disappearance from a mental institution.",
+    "genre": "Thriller",
+    "price": 15.49,
+    "publishedYear": 2003,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL7510988M-L.jpg",
+    "description": "The first book in the Harry Potter series, introducing a young wizard discovering his magical heritage.",
+    "genre": "Fantasy",
+    "price": 19.99,
+    "publishedYear": 1997,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL51711263M-L.jpg",
+    "description": "Bilbo Baggins embarks on an unexpected journey to reclaim a lost Dwarf kingdom from a dragon.",
+    "genre": "Fantasy",
+    "price": 18.5,
+    "publishedYear": 1937,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "bookCoverImage": "http://books.google.com/books/content?id=wIQ-AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A quest to destroy a powerful ring that threatens to enslave Middle-earth.",
+    "genre": "Fantasy",
+    "price": 20.99,
+    "publishedYear": 1954,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL33054611M-L.jpg",
+    "description": "Four siblings discover a magical world ruled by a White Witch and fight alongside a great lion, Aslan.",
+    "genre": "Fantasy",
+    "price": 15.99,
+    "publishedYear": 1950,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Eragon",
+    "author": "Christopher Paolini",
+    "bookCoverImage": "http://books.google.com/books/content?id=Xt9e9yLsyuAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A young farm boy discovers a dragon egg that changes his destiny forever.",
+    "genre": "Fantasy",
+    "price": 17.25,
+    "publishedYear": 2002,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL7993641M-L.jpg",
+    "description": "The story of a gifted young man who grows to become a legendary wizard.",
+    "genre": "Fantasy",
+    "price": 18.99,
+    "publishedYear": 2007,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "bookCoverImage": "http://books.google.com/books/content?id=t_ZYYXZq4RgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A world ruled by an immortal tyrant, and a young thief who might overthrow him using metal-based magic.",
+    "genre": "Fantasy",
+    "price": 19.49,
+    "publishedYear": 2006,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL24345134M-L.jpg",
+    "description": "A sprawling epic of war, honor, and leadership in a storm-wracked world.",
+    "genre": "Fantasy",
+    "price": 21.99,
+    "publishedYear": 2010,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL7829767M-L.jpg",
+    "description": "Noble families vie for power in a brutal world of politics, dragons, and betrayal.",
+    "genre": "Fantasy",
+    "price": 22.99,
+    "publishedYear": 1996,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL36647151M-L.jpg",
+    "description": "A guide to building good habits and breaking bad ones through small, consistent changes.",
+    "genre": "Self-Help",
+    "price": 16.99,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL8154493M-L.jpg",
+    "description": "A spiritual guide to living in the present moment and freeing yourself from overthinking.",
+    "genre": "Spirituality ",
+    "price": 14.5,
+    "publishedYear": 1997,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL28136651M-L.jpg",
+    "description": "A classic framework for personal and professional effectiveness.",
+    "genre": "Self-Improvement",
+    "price": 17.99,
+    "publishedYear": 1989,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Think Like a Monk",
+    "author": "Jay Shetty",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL28751758M-L.jpg",
+    "description": "Lessons from a monk on how to train your mind for peace and purpose every day.",
+    "genre": "Self-Help ",
+    "price": 18.5,
+    "publishedYear": 2020,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "bookCoverImage": "http://books.google.com/books/content?id=AbKWzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "description": "A counterintuitive approach to living a good life by focusing on what really matters.",
+    "genre": "Personal Development",
+    "price": 15.75,
+    "publishedYear": 2016,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26618658M-L.jpg",
+    "description": "The autobiography of David Goggins, a Navy SEAL who turned mental toughness into a lifestyle.",
+    "genre": "Motivational ",
+    "price": 19.99,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Man’s Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "bookCoverImage": "http://books.google.com/books/content?id=H8k4JLZu6AsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A Holocaust survivor’s exploration of finding purpose in life even in the darkest times.",
+    "genre": "Philosophy",
+    "price": 13.99,
+    "publishedYear": 1946,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL29412746M-L.jpg",
+    "description": "Timeless lessons on wealth, greed, and happiness through human behavior and finance.",
+    "genre": "Finance ",
+    "price": 17.5,
+    "publishedYear": 2020,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "12 Rules for Life: An Antidote to Chaos",
+    "author": "Jordan B. Peterson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL37041060M-L.jpg",
+    "description": "Psychological principles for bringing order and meaning to life’s chaos.",
+    "genre": "Psychology ",
+    "price": 18.25,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26314691M-L.jpg",
+    "description": "Rules for focused success in a distracted world.",
+    "genre": "Productivity ",
+    "price": 16.49,
+    "publishedYear": 2016,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL19989976M-L.jpg",
+    "description": "Stephen Hawking explores the origins and structure of the universe, black holes, time, and the nature of space.",
+    "genre": "Science ",
+    "price": 15.99,
+    "publishedYear": 1988,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL7405450M-L.jpg",
+    "description": "A revolutionary look at evolution from the perspective of the gene as the central unit of natural selection.",
+    "genre": "Biology ",
+    "price": 14.99,
+    "publishedYear": 1976,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26311319M-L.jpg",
+    "description": "A concise and engaging guide to the universe, written for anyone curious about the cosmos.",
+    "genre": "Astrophysics ",
+    "price": 13.99,
+    "publishedYear": 2017,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "bookCoverImage": "http://books.google.com/books/content?id=MosvEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Explores the journey of Homo sapiens from ancient times to the modern age, reshaping how we view human history.",
+    "genre": "History",
+    "price": 18.5,
+    "publishedYear": 2011,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Homo Deus: A Brief History of Tomorrow",
+    "author": "Yuval Noah Harari",
+    "bookCoverImage": "http://books.google.com/books/content?id=XgksEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Harari envisions the future of humankind, exploring artificial intelligence, biotechnology, and immortality.",
+    "genre": "Science ",
+    "price": 17.99,
+    "publishedYear": 2015,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Gene: An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "bookCoverImage": "http://books.google.com/books/content?id=XvAsDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A history of genetics, weaving together science, biography, and the ethical questions behind genetic discovery.",
+    "genre": "Biology ",
+    "price": 19.49,
+    "publishedYear": 2016,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Brief Answers to the Big Questions",
+    "author": "Stephen Hawking",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27351695M-L.jpg",
+    "description": "Hawking’s final book answering the most profound questions about the universe and our place in it.",
+    "genre": "Physics ",
+    "price": 17.25,
+    "publishedYear": 2018,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Body: A Guide for Occupants",
+    "author": "Bill Bryson",
+    "bookCoverImage": "http://books.google.com/books/content?id=jePFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "An entertaining exploration of the human body and all its mysteries, from the brain to the bones.",
+    "genre": "Biology ",
+    "price": 16.5,
+    "publishedYear": 2019,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "bookCoverImage": "http://books.google.com/books/content?id=EIqoiww1r9sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A masterpiece on the universe and our place within it, blending science and philosophy beautifully.",
+    "genre": "Astronomy ",
+    "price": 18.75,
+    "publishedYear": 1980,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Innovators",
+    "author": "Walter Isaacson",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25643817M-L.jpg",
+    "description": "A fascinating story of the people who created the computer and the internet revolution.",
+    "genre": "Technology ",
+    "price": 17.99,
+    "publishedYear": 2014,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL26632040M-L.jpg",
+    "description": "A personal finance classic that challenges the way people think about money and investing.",
+    "genre": "Finance ",
+    "price": 14.99,
+    "publishedYear": 1997,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL24982481M-L.jpg",
+    "description": "A revolutionary approach to building startups through continuous innovation and learning.",
+    "genre": "Business ",
+    "price": 16.75,
+    "publishedYear": 2011,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27546580M-L.jpg",
+    "description": "Peter Thiel shares how to build innovative companies that create truly new things.",
+    "genre": "Entrepreneurship ",
+    "price": 15.99,
+    "publishedYear": 2014,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL7281896M-L.jpg",
+    "description": "The definitive book on value investing and long-term financial success.",
+    "genre": "Finance ",
+    "price": 19.99,
+    "publishedYear": 1949,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27279072M-L.jpg",
+    "description": "A leadership guide explaining how great leaders inspire action by focusing on their 'why'.",
+    "genre": "Leadership ",
+    "price": 17.5,
+    "publishedYear": 2009,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL38090969M-L.jpg",
+    "description": "Nobel laureate Daniel Kahneman explores the two systems of thought that shape our decisions.",
+    "genre": "Economics ",
+    "price": 18.25,
+    "publishedYear": 2011,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL33314410M-L.jpg",
+    "description": "Tim Ferriss shows how to escape the 9-to-5 grind and design a lifestyle of freedom and mobility.",
+    "genre": "Business ",
+    "price": 16.99,
+    "publishedYear": 2007,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Good to Great",
+    "author": "Jim Collins",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9248220M-L.jpg",
+    "description": "Jim Collins analyzes how good companies become great and sustain their success.",
+    "genre": "Business ",
+    "price": 17.99,
+    "publishedYear": 2001,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Millionaire Next Door",
+    "author": "Thomas J. Stanley & William D. Danko",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL1018905M-L.jpg",
+    "description": "A study of the habits and behaviors of America’s wealthy individuals.",
+    "genre": "Finance ",
+    "price": 15.25,
+    "publishedYear": 1996,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Principles: Life and Work",
+    "author": "Ray Dalio",
+    "bookCoverImage": "http://books.google.com/books/content?id=6LGuDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "Billionaire investor Ray Dalio shares the guiding principles behind his success in business and life.",
+    "genre": "Business ",
+    "price": 19.5,
+    "publishedYear": 2017,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL8784104M-L.jpg",
+    "description": "An ancient Chinese military treatise on strategy, leadership, and the philosophy of conflict.",
+    "genre": "Philosophy",
+    "price": 11.5,
+    "publishedYear": -500,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL37826838M-L.jpg",
+    "description": "A political treatise that examines power, leadership, and statecraft in Renaissance Italy.",
+    "genre": "Philosophy",
+    "price": 12.25,
+    "publishedYear": 1532,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL18642726M-L.jpg",
+    "description": "Explores how environmental and geographical factors shaped the modern world.",
+    "genre": "History",
+    "price": 18.99,
+    "publishedYear": 1997,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Gulag Archipelago",
+    "author": "Aleksandr Solzhenitsyn",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL8105157M-L.jpg",
+    "description": "A monumental history and personal account of the Soviet forced labor camp system.",
+    "genre": "History",
+    "price": 19.5,
+    "publishedYear": 1973,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL4426208M-L.jpg",
+    "description": "A retelling of American history from the perspective of common people rather than political elites.",
+    "genre": "History",
+    "price": 17.75,
+    "publishedYear": 1980,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Second World War",
+    "author": "Antony Beevor",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25215125M-L.jpg",
+    "description": "A comprehensive account of World War II by one of the leading military historians.",
+    "genre": "History",
+    "price": 18.99,
+    "publishedYear": 2012,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Team of Rivals: The Political Genius of Abraham Lincoln",
+    "author": "Doris Kearns Goodwin",
+    "bookCoverImage": "http://books.google.com/books/content?id=Cg0bDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A portrait of Abraham Lincoln’s leadership through his relationships with his cabinet members.",
+    "genre": "History",
+    "price": 19.99,
+    "publishedYear": 2005,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL27512873M-L.jpg",
+    "description": "The inspiring story of the inventors of flight and their impact on modern technology.",
+    "genre": "History",
+    "price": 17.25,
+    "publishedYear": 2015,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Silk Roads: A New History of the World",
+    "author": "Peter Frankopan",
+    "bookCoverImage": "http://books.google.com/books/content?id=9RBsCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A global history centered around the trade routes connecting the East and West.",
+    "genre": "History",
+    "price": 18.5,
+    "publishedYear": 2015,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Don't Be Sad",
+    "author": "Aaidh Al-Qarni",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL45619004M-L.jpg",
+    "description": "An inspirational self-help and Islamic guide encouraging patience, hope, and faith through life’s challenges.",
+    "genre": "Islamic",
+    "price": 14.5,
+    "publishedYear": 2003,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Children of Our Alley",
+    "author": "Naguib Mahfouz",
+    "bookCoverImage": "http://books.google.com/books/content?id=zZX3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A symbolic novel exploring themes of power, religion, and human nature through allegorical storytelling set in an Egyptian neighborhood.",
+    "genre": "Literature",
+    "price": 17.75,
+    "publishedYear": 1959,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Naked Bread",
+    "author": "Mohamed Choukri",
+    "bookCoverImage": "http://books.google.com/books/content?id=ni_iEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A raw autobiographical novel about poverty, struggle, and survival in Morocco during the 20th century.",
+    "genre": "Literature",
+    "price": 15.99,
+    "publishedYear": 1973,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "Season of Migration to the North",
+    "author": "Tayeb Salih",
+    "bookCoverImage": "http://books.google.com/books/content?id=zBBshCdGbVwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A postcolonial masterpiece exploring identity, culture clash, and colonial legacy through a Sudanese man’s journey between Sudan and England.",
+    "genre": "Literature",
+    "price": 16.25,
+    "publishedYear": 1966,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "In the Presence of Absence",
+    "author": "Mahmoud Darwish",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL25109156M-L.jpg",
+    "description": "A poetic autobiography reflecting on exile, memory, and the identity of Palestine’s most famous poet.",
+    "genre": "Poetry ",
+    "price": 18.5,
+    "publishedYear": 2006,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Yacoubian Building",
+    "author": "Alaa Al Aswany",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9191381M-L.jpg",
+    "description": "A realistic portrayal of Egyptian society through the stories of residents in a Cairo apartment building.",
+    "genre": "Literature",
+    "price": 19.25,
+    "publishedYear": 2002,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Call of the Unknown",
+    "author": "Mustafa Mahmoud",
+    "bookCoverImage": "http://books.google.com/books/content?id=55IGCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A philosophical journey exploring existence, science, and faith from an Islamic perspective.",
+    "genre": "Philosophy",
+    "price": 11.75,
+    "publishedYear": 1970,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Road to Mecca",
+    "author": "Muhammad Asad",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL8708937M-L.jpg",
+    "description": "A captivating spiritual autobiography of Muhammad Asad, a Jewish-born Austrian who embraced Islam and traveled through the Muslim world.",
+    "genre": "Islamic",
+    "price": 17.5,
+    "publishedYear": 1954,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Revival of Religious Sciences",
+    "author": "Abu Hamid Al-Ghazali",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL2987004M-L.jpg",
+    "description": "A classical Islamic masterpiece exploring spirituality, ethics, and the purification of the soul.",
+    "genre": "Philosophy",
+    "price": 22,
+    "publishedYear": 1100,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Alchemist's Secrets",
+    "author": "Ibn Arabi",
+    "bookCoverImage": "http://books.google.com/books/content?id=NsrHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A deep exploration of divine love, mysticism, and the unity of existence by one of Islam’s greatest Sufi philosophers.",
+    "genre": "Philosophy",
+    "price": 20.99,
+    "publishedYear": 1200,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Art of Eloquence",
+    "author": "Al-Jahiz",
+    "bookCoverImage": "http://books.google.com/books/content?id=I9NTEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A foundational work in Arabic literature and linguistics that examines rhetoric, logic, and eloquence.",
+    "genre": "Classic",
+    "price": 16.5,
+    "publishedYear": 830,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Book of Healing",
+    "author": "Ibn Sina (Avicenna)",
+    "bookCoverImage": "http://books.google.com/books/content?id=lo49EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "An encyclopedic philosophical and scientific work that addresses logic, natural sciences, psychology, and metaphysics.",
+    "genre": "Philosophy",
+    "price": 24.99,
+    "publishedYear": 1020,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Neighborhood Talk",
+    "author": "Ibrahim Issa",
+    "bookCoverImage": "http://books.google.com/books/content?id=L94jDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A satirical novel about Egyptian society, political power, and human contradictions.",
+    "genre": "Fiction",
+    "price": 15.25,
+    "publishedYear": 2014,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Time Traveller",
+    "author": "Ahmed Khaled Tawfik",
+    "bookCoverImage": "http://books.google.com/books/content?id=IwZlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A thrilling story of mystery and imagination that dives into the concept of time and human curiosity.",
+    "genre": "Thriller",
+    "price": 14.75,
+    "publishedYear": 2012,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "The Days",
+    "author": "Taha Hussein",
+    "bookCoverImage": "https://covers.openlibrary.org/b/olid/OL9191217M-L.jpg",
+    "description": "An autobiographical trilogy reflecting Taha Hussein’s journey from blindness to becoming one of Egypt’s greatest intellectuals.",
+    "genre": "Literature",
+    "price": 18.25,
+    "publishedYear": 1929,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  },
+  {
+    "title": "For You My Country",
+    "author": "Mostafa Mahmoud",
+    "bookCoverImage": "http://books.google.com/books/content?id=rGpjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "description": "A collection of essays combining philosophy, religion, and nationalism, calling for revival of thought and faith.",
+    "genre": "Philosophy",
+    "price": 13.5,
+    "publishedYear": 1978,
+    "createdBy": "67132acb9f1b2e5f885af101"
+  }
+]
