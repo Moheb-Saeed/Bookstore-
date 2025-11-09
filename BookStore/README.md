@@ -4,7 +4,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/MAYouns/BookStore.git
+git clone https://github.com/Moheb-Saeed/BookStore.git
 cd BookStore
 ```
 
@@ -34,21 +34,11 @@ npm run dev
 ng serve -o
 ```
 
-## 🧾 Admin Credentials
-```bash
-Email: admin@gamil.com
-Password: Admin@123
-```
-
 ## ⚙️ Technologies Used
 ### 🖥️ Frontend
-- HTML, CSS, TypeScript, Angular, Tailwind CSS, fontAwesome, flowbit .....etc
+- HTML, CSS, TypeScript, Angular, Tailwind CSS, fontAwesome, flowbit
 ### 🧩 Backend
-- Node.js, Express.js, MongoDB, mogoose, ...etc
+- Node.js, Express.js, MongoDB, mogoose
 
-## 👨‍💻 Team Members
-- 🧑 **Mostafa Ahmed Youns AbdelRaheem** _(Team Leader)_
-- 👨‍💻 Mostafa Ahmed Salah Tony
-- 👨‍💻 Yousif Adel
 - 👨‍💻 Moheb Saeed
 - 👨‍💻 Omar Sherif Salah
